@@ -2,7 +2,7 @@
   "name": "Mapfre",
   "short_name": "Mapfre",
   "description": "Cotizadores de Mapfre",
-  "background_color": "#2B2B2B",
+  "background_color": "#FFFFFF",
   "theme_color": "#c10003",
   "orientation": "portrait",
   "display": "standalone",
